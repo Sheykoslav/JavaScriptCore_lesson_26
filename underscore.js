@@ -14,3 +14,4 @@ console.log('Using omit:');
 var omitedInCar = _.omit(car, 'model');
 console.log(omitedInCar);
 //comment commit №2
+//comment commit №3
